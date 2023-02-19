@@ -1,7 +1,10 @@
-# Finance Academy
+# Finance Academy 🪙
 
-> Status: Concluído
+> Status: Concluído ✔️
 
-Bem vindos, esse projeto é um site fictício feito para o portfólio.
-Foi desenvolvido inteiramente com o uso de HTML5, sem nenhuma adição de linguagem de programação ou estilização. <br>
-Esse projeto pode ser visualizado em: https://drco23.github.io/FinanceAcademy/
+#### Tecnologias 🔧
+-HTML5
+
+## Esse projeto é um site fictício utilizado apenas para o portfólio.
+
+**Esse projeto pode ser visualizado em: https://drco23.github.io/FinanceAcademy/  **
