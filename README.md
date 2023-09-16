@@ -1,11 +1,11 @@
 # Finance Academy 🪙
 
-> Status: Concluído ✔️
+> Status: Completed ✔️
 
-#### Tecnologias 🔧
+#### Tools 🔧
 -HTML5
 
-## Site fictício utilizado apenas para o portfólio e fins educacionais. <br>
-Completamente desenvolvido em HTML5, sem adição de linguagens de programação.
+## Fictitious website used solely for portfolio and educational purposes. <br>
+Developed in HTML5, with no additional programming languages.
 
-**Esse projeto pode ser visualizado em: https://gitmurilo.github.io/FinanceAcademy/**
+**This project can be viewed at: https://gitmurilo.github.io/FinanceAcademy/**
